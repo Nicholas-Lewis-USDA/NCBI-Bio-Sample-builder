@@ -1,10 +1,10 @@
 Two direct methods to use this program.
 
-The first is using Powershell directly -> download the "NCBI Bio Sample Builder.ps1" -> once downloaded right click on the file and run with PowerShell.
+The first is using Powershell directly -> download the "NCBI Biosample Builder.ps1" -> once downloaded right click on the file and run with PowerShell.
 You don't need any elevated permissions
 
-The second is using the bat file -> download both the "NCBI Bio Sample Builder.ps1" and NCBI Sample Builder.bat 
-Ensure the "NCBI Bio Sample Builder is in the Downloads folder otherwise you may need to change the location in the "NCBI Sample Builder.bat
+The second is using the bat file -> download both the "NCBI Biosample Builder.ps1" and NCBI Sample Builder.bat 
+Ensure the "NCBI Biosample Builder.ps1" is in the Downloads folder otherwise you may need to change the location in the "NCBI Sample Builder.bat
   "C:\Users\%USERNAME%\Downloads\" Change this section to match your location of the ps1 file
 You can then move the bat file to your preferred location and run it like you would any program by double clicking the file.  It will lanch the program via Command Prompt
 It has the same funcationality just you will have a different appearance.
