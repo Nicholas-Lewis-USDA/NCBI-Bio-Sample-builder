@@ -1,5 +1,5 @@
 # NCBI-Biosample-builder
-Pulls Data from NCBI based on Sample name or SRR #
+Pulls Metadata from NCBI based on Sample name or SRR #
 
 Allows a user to supply sample names and SRR #'s and will pull back from NCBI via Excel spreadsheet, the Sample Name, SRR#, Project#, Submitter and the website used to generate the information for manual verification
 
